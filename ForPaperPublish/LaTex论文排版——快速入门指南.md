@@ -9,11 +9,10 @@
 准备运行环境，类似java，先得装JRE，然后eclipse
 * [清华镜像](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/) 点进去选择 texlive.iso 文件
 #### 选择IDE
-* [Texmaker](https://sourceforge.net/projects/texstudio/)
-* [Tex studio](https://www.xm1math.net/texmaker/)
-* [在线编写网站](https://www.overleaf.com)
-![05c4979ea3ade781b4681801918d5434.png](en-resource://database/8184:1)@w=800
+* [Texmaker](https://sourceforge.net/projects/texstudio/)、[Tex studio](https://www.xm1math.net/texmaker/)、 [在线编写网站](https://www.overleaf.com)
 #### Tex studio安装和使用
+* 安装之后为何不能使用编译器?
+
 * [LaTex 论文排版(1): Win10 下 LaTex所需软件安装 (Tex live 2018 + Tex studio)
 ](https://blog.csdn.net/zaishuiyifangxym/article/details/88170827)
 
@@ -23,3 +22,5 @@
 
 #### LaTex学习网站
 * [LaTex开源小屋](https://www.latexstudio.net/)
+
+
