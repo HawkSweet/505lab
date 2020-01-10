@@ -106,10 +106,10 @@
 * [LaTex开源小屋](https://www.latexstudio.net/)
 
 #### 7 指南下载地址
-指南放在我的GitHub项目505lab中
 * 使用 git命令下载，提倡实验室成员以后多使用GitHub
 `git clone https://github.com/HawkSweet/505lab.git`
-* 进入我的GitHub直接查看 [HawkSweet](https://github.com/HawkSweet/505lab)
+* 或者进入我的GitHub直接查看 [HawkSweet](https://github.com/HawkSweet/505lab)
+初次写文档希望收到好的建议和意见
 * [MathType6.9下载](https://pan.baidu.com/s/1aBuZe3GZLPiODknT7dZE0A)
 提取码：bdwu  （配合office2013和visio2013，兼容无忧）
 * 其他未提供下载链接的软件，请找公众号“软件安装管家”，或者询问本指南作者
