@@ -93,20 +93,22 @@
 >"plain"为一般格式可选其他如"acm"等，"bibfile"为".bib"格式文件的名称
  * 事先在word中插入参考文献
  可先用zotero管理文献，自动调整引文序号和生成书目。[安装教程](https://zhuanlan.zhihu.com/p/30899762)
+ 
 #### 6 学习网站和下载链接
 * [LaTeX官方文档](https://www.latex-project.org/help/documentation/usrguide.pdf)
 * [一个中文排版例子](https://www.jianshu.com/p/2bef8b44f40a)
 * [清华毕业论文](https://github.com/xueruini/thuthesis)
 * [IEEE投稿模板](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-article/authoring-tools-and-templates/ieee-article-templates/templates-for-transactions/)
 * [LaTex开源小屋](https://www.latexstudio.net/)
-* [MathType6.9下载](https://pan.baidu.com/s/1aBuZe3GZLPiODknT7dZE0A)
-提取码：bdwu  （配合office2013和visio2013，兼容无忧）
 
 #### 7 指南下载地址
 指南放在我的GitHub项目505lab中
 * 使用 git命令下载，提倡实验室成员以后多使用GitHub
 `git clone https://github.com/HawkSweet/505lab.git`
 * 进入我的GitHub直接查看 [HawkSweet](https://github.com/HawkSweet/505lab)
+* [MathType6.9下载](https://pan.baidu.com/s/1aBuZe3GZLPiODknT7dZE0A)
+提取码：bdwu  （配合office2013和visio2013，兼容无忧）
+* 其他未提供下载链接的软件，请找公众号“软件安装管家”，或者询问本指南作者
 
 #### 参考资料
 * 公众号"AI算法与图像处理"——学习&科研必备的几个实用工具推荐（排版、绘图、查错）
