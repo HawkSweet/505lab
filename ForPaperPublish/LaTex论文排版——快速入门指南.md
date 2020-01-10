@@ -7,7 +7,7 @@
 2、**良好的平台通用性** 。目前为止，TeX 几乎在所有的计算机操作系统平台上得到实现。TeX 的源文件可在不同的平台之间自由的交换，而得到的输出是完全相同的。
 3、**超常的稳定性**。自从 TeX 出现以来，改动微小，即十几年前的 TeX 文件用现在的 TeX 系统排版得到的结果与十几年前得到的结果是一样的。TeX 系统极少会崩溃，可以处理任意大小的文件，即使你的计算机的内存很少，TeX 也可自如的工作。
 * 类比html理解LaTeX
-![](http://liuchengxu.org/blog-cn/assets/images/posts/sketch.png)@w=800h=400
+![](http://liuchengxu.org/blog-cn/assets/images/posts/sketch.png)
 
 #### 2 准备Tex“引擎”
 安装texlive提供LaxTex的编译器和相关组件。
