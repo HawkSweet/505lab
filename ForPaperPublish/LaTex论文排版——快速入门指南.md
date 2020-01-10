@@ -6,9 +6,8 @@
 1、**完美支持数学公式**。
 2、**良好的平台通用性** 。目前为止，TeX 几乎在所有的计算机操作系统平台上得到实现。TeX 的源文件可在不同的平台之间自由的交换，而得到的输出是完全相同的。
 3、**超常的稳定性**。自从 TeX 出现以来，改动微小，即十几年前的 TeX 文件用现在的 TeX 系统排版得到的结果与十几年前得到的结果是一样的。TeX 系统极少会崩溃，可以处理任意大小的文件，即使你的计算机的内存很少，TeX 也可自如的工作。
-
 * 类比html理解LaTeX
-![image](http://liuchengxu.org/blog-cn/assets/images/posts/sketch.png)@w=800h=400
+![](http://liuchengxu.org/blog-cn/assets/images/posts/sketch.png)@w=800h=400
 
 #### 2 准备Tex“引擎”
 安装texlive提供LaxTex的编译器和相关组件。
@@ -34,7 +33,9 @@
 \end{equation}
 ```
 * mathtype6.9
-在word中编写公式，可以用自带编辑器排版较好，但公式字体不是Times；或者使用mathtype（后文附百度云下载链接），排版尴尬。
+    * 在word中编写公式，可以用自带编辑器排版较好，但存在字体问题；
+    * 也可使用mathtype（后文附百度云下载链接）。
+用mathtype编好的公式可以转为LaTex格式 [参考](https://blog.csdn.net/zaishuiyifangxym/article/details/88327257)
 * 推荐神器 mathpix
 将手写和截图公式转换成LaTeX格式的公式，在word写作时可以先放在mathType中，或者排版时直接使用，官网免费版本每月50次转换数，[官网下载](https://mathpix.com/)
 ##### 插图
