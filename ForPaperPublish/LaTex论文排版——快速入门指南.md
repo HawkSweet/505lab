@@ -38,6 +38,10 @@
 * 推荐神器 mathpix
 将手写和截图公式转换成LaTeX格式的公式，在word写作时可以先放在mathType中，或者排版时直接使用，官网免费版本每月50次转换数，[官网下载](https://mathpix.com/)
 ##### 插图
+* 宏包的使用
+```TeX
+    \usepackage{graphicx} % 旧模板的使用graphics会出错
+```
 * 添加插图的写法
 ```TeX
 \begin{figure}[h]\label{fig1}
